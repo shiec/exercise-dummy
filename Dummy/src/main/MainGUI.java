@@ -14,6 +14,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 
+// This is a dummy exercise by Amanda. Try squash
 public class MainGUI extends JFrame implements ActionListener {
 
 	public JLabel enterLbl = null;
